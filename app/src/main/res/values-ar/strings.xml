@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وَحْيّ</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="or">أو</string>
+    <string name="create_a_new_account">أنشئ حساب جديد.</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="confirm_password">تأكيد كلمة السر</string>
+    <string name="already_have_an_account">بالفعل أمتلك حساب.</string>
+    <string name="create_account">أنشئ حساب.</string>
+    <string name="enter_email">أدخل بريدك الإلكتروني !</string>
+    <string name="enter_pass">أدخل كلمة السر !</string>
+    <string name="email_valid">بريدك غير صحيح !</string>
+    <string name="enter_name">أدخل اسم المستخدم !</string>
+    <string name="minimum_pass">أقل عدد 6 أحرف !</string>
+    <string name="u_should_confirm_pass">يجب تأكيد السر !</string>
+    <string name="password_not_matched">كلنة السر ليست متطابقة !</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="profile">ملفي الشخصي</string>
+    <string name="teachers">المعلمين</string>
+    <string name="honerBoard">لوحة الشرف</string>
+</resources>
